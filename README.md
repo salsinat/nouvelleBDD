@@ -1,7 +1,7 @@
 # Cas de synthèse - Partie 1
 Base utilisée " ```tour_Pedia``` ", collection " ```paris``` "
 
-Fichier JSON: [tourPedia_paris.json](https://raw.githubusercontent.com/salsinat/nouvelleBDD/refs/heads/main/tourPedia_paris.json)
+Fichier JSON: [tourPedia_paris.json](https://github.com/salsinat/nouvelleBDD/blob/main/tourPedia_paris.json)
 
 <details open> <summary> Exemples de document : </summary>
 
